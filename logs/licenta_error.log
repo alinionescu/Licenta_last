@@ -1,0 +1,1 @@
+2016/05/25 00:30:59 [error] 13763#13763: *16 rewrite or internal redirection cycle while internally redirecting to "/app.app", client: 127.0.0.1, server: licenta_utm.dev, request: "GET / HTTP/1.1", host: "localhost"
